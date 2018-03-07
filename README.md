@@ -21,3 +21,5 @@ A collection of resources for various topics.
 
 ## Misc
   * [Awesome Beginner-Friendly Projects on GitHub](https://github.com/MunGell/awesome-for-beginners)
+  * [Understanding JSON](https://spring.io/understanding/JSON)
+  * [JSON Website](http://json.org/)
