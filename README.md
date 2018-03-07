@@ -15,5 +15,9 @@ A collection of resources for various topics.
 ### Articles/Blog Posts
   * [Good Logging practice in Python](https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/)
   * [Parallelism in one Line](http://chriskiehl.com/article/parallelism-in-one-line/)
+  * [Data Mining in Python: A Guide](https://www.springboard.com/blog/data-mining-python-tutorial/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
 ## Ruby Resources
+
+## Misc
+  * [Awesome Beginner-Friendly Projects on GitHub](https://github.com/MunGell/awesome-for-beginners)
