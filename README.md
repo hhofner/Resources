@@ -3,6 +3,7 @@ A collection of resources for various topics.
 
 ## GitHub
   * [How to write good commit messages](http://api.coala.io/en/latest/Developers/Writing_Good_Commits.html)
+  * [A Guide to Single Branch Development](https://medium.com/learn-git-today/single-branch-development-with-git-f72a052446cf)
 
 ## Machine Learning Resources
 ### Books
@@ -26,3 +27,4 @@ A collection of resources for various topics.
   * [Awesome Beginner-Friendly Projects on GitHub](https://github.com/MunGell/awesome-for-beginners)
   * [Understanding JSON](https://spring.io/understanding/JSON)
   * [JSON Website](http://json.org/)
+  * [Complexity Cheatsheet](http://bigocheatsheet.com/)
