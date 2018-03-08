@@ -28,3 +28,4 @@ A collection of resources for various topics.
   * [Understanding JSON](https://spring.io/understanding/JSON)
   * [JSON Website](http://json.org/)
   * [Complexity Cheatsheet](http://bigocheatsheet.com/)
+  * [Applying Artificial Intelligence to Nintendo Tetri](http://meatfighter.com/nintendotetrisai/)
