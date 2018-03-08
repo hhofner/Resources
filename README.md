@@ -19,6 +19,9 @@ A collection of resources for various topics.
 
 ## Ruby Resources
 
+## Web Development Resources
+  * [How to Center in CSS](http://howtocenterincss.com/)
+
 ## Misc
   * [Awesome Beginner-Friendly Projects on GitHub](https://github.com/MunGell/awesome-for-beginners)
   * [Understanding JSON](https://spring.io/understanding/JSON)
