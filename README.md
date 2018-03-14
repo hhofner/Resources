@@ -4,6 +4,7 @@ A collection of resources for various topics.
 ## GitHub
   * [How to write good commit messages](http://api.coala.io/en/latest/Developers/Writing_Good_Commits.html)
   * [A Guide to Single Branch Development](https://medium.com/learn-git-today/single-branch-development-with-git-f72a052446cf)
+  * [Excluding Files from Git without .gitignore](https://hackernoon.com/exclude-files-from-git-without-committing-changes-to-gitignore-986fa712e78d)
 
 ## Machine Learning Resources
 ### Books
