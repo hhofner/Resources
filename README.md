@@ -18,6 +18,7 @@ A collection of resources for various topics.
   * [Good Logging practice in Python](https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/)
   * [Parallelism in one Line](http://chriskiehl.com/article/parallelism-in-one-line/)
   * [Data Mining in Python: A Guide](https://www.springboard.com/blog/data-mining-python-tutorial/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+  * [PyLaTex Documentation](https://jeltef.github.io/PyLaTeX/current/index.html)
 
 ## Ruby Resources
 
