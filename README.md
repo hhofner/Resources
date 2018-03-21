@@ -19,6 +19,7 @@ A collection of resources for various topics.
   * [Parallelism in one Line](http://chriskiehl.com/article/parallelism-in-one-line/)
   * [Data Mining in Python: A Guide](https://www.springboard.com/blog/data-mining-python-tutorial/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
   * [PyLaTex Documentation](https://jeltef.github.io/PyLaTeX/current/index.html)
+  * [Intro to Iterators and Generators](https://www.blog.pythonlibrary.org/2016/05/03/python-201-an-intro-to-iterators-and-generators/)
 
 ## Ruby Resources
 
