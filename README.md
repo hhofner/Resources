@@ -21,10 +21,10 @@ A collection of resources for various topics.
   * [PyLaTex Documentation](https://jeltef.github.io/PyLaTeX/current/index.html)
   * [Intro to Iterators and Generators](https://www.blog.pythonlibrary.org/2016/05/03/python-201-an-intro-to-iterators-and-generators/)
 
-## Ruby Resources
-
 ## Web Development Resources
   * [How to Center in CSS](http://howtocenterincss.com/)
+  * [React](https://reactjs.org/)
+  * [React Native](https://facebook.github.io/react-native/)
 
 ## Misc
   * [Awesome Beginner-Friendly Projects on GitHub](https://github.com/MunGell/awesome-for-beginners)
