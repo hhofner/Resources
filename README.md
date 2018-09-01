@@ -25,6 +25,7 @@ A collection of resources for various topics.
   * [How to Center in CSS](http://howtocenterincss.com/)
   * [React](https://reactjs.org/)
   * [React Native](https://facebook.github.io/react-native/)
+  * [The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 
 ## Misc
   * [Awesome Beginner-Friendly Projects on GitHub](https://github.com/MunGell/awesome-for-beginners)
@@ -32,3 +33,5 @@ A collection of resources for various topics.
   * [JSON Website](http://json.org/)
   * [Complexity Cheatsheet](http://bigocheatsheet.com/)
   * [Applying Artificial Intelligence to Nintendo Tetris](http://meatfighter.com/nintendotetrisai/)
+  * [Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
+  * 
