@@ -26,6 +26,8 @@ A collection of resources for various topics.
   * [React](https://reactjs.org/)
   * [React Native](https://facebook.github.io/react-native/)
   * [The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+  * [Understanding the DOM](https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-document-object-model)
+  * [Beginner Friendly Guide to React](https://www.taniarascia.com/getting-started-with-react/)
 
 ## Misc
   * [Awesome Beginner-Friendly Projects on GitHub](https://github.com/MunGell/awesome-for-beginners)
