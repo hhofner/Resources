@@ -29,6 +29,9 @@ A collection of resources for various topics.
   * [Understanding the DOM](https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-document-object-model)
   * [Beginner Friendly Guide to React](https://www.taniarascia.com/getting-started-with-react/)
 
+## JavaScript Resources
+  * [Eloquent JavaScript Home Page](https://eloquentjavascript.net/)
+
 ## Misc
   * [Awesome Beginner-Friendly Projects on GitHub](https://github.com/MunGell/awesome-for-beginners)
   * [Understanding JSON](https://spring.io/understanding/JSON)
