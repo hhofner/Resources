@@ -39,4 +39,4 @@ A collection of resources for various topics.
   * [Complexity Cheatsheet](http://bigocheatsheet.com/)
   * [Applying Artificial Intelligence to Nintendo Tetris](http://meatfighter.com/nintendotetrisai/)
   * [Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
-  * 
+  * [Overview of Japanese Verbs and their Conjugations](https://upload.wikimedia.org/wikipedia/commons/6/68/AMB_Japanese_Verbs.pdf)
